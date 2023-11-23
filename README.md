@@ -62,7 +62,7 @@ You can view the training procedure through the following GIFs, demonstrating th
 
 
 
-#### Results
+### Results
 The outcome of the training over 2000 episodes, including the raw reward obtained and the Simple Moving Average of 25 (SMA 25) rewards are as follows:
 
 <p float="left">
