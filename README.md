@@ -71,7 +71,7 @@ The outcome of the training over 2000 episodes, including the raw reward obtaine
 
 
 ## Persian Tutorial Video
-You can access the video tutorial (in persian) explaining the implementation of deep reinforcement learning, particularly the REINFORCE algorithm in Webots from [here](ht).
+You can access the video tutorial (in persian) explaining the implementation of deep reinforcement learning, particularly the REINFORCE algorithm in Webots from [here](https://youtu.be/REok-WlHql8).
 
 I sincerely hope that this tutorial proves helpful to those of you who are in the process of learning. If you find this repository helpful in your learning journey, consider giving it a star.
 
