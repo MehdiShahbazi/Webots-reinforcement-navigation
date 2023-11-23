@@ -1,7 +1,7 @@
 ## Description
 This repository contains a Python implementation of the REINFORCE algorithm (with action-independent baseline) from the deep reinforcement learning family for path planning and obstacle avoidance of a two-wheeled robot in the Webots simulator. The objective is to navigate autonomously through the environment from point A to point B with the [Pioneer 3-DX](https://www.cyberbotics.com/doc/guide/pioneer-3dx?version=cyberbotics:R2019a-rev1) robot without any collisions.
 
-If you're unfamiliar with Webots, I strongly suggest beginning by exploring this [++link++](https://github.com/MehdiShahbazi/Webots-simple-move) to initiate your journey with the platform.
+If you're unfamiliar with Webots, I strongly suggest beginning by exploring this [link](https://github.com/MehdiShahbazi/Webots-simple-move) to initiate your journey with the platform.
 
 
 ## Introduction
@@ -71,7 +71,7 @@ The outcome of the training over 2000 episodes, including the raw reward obtaine
 
 
 ## Persian Tutorial Video
-You can access the video tutorial (in persian) explaining the implementation of deep reinforcement learning, particularly the REINFORCE algorithm in Webots from [++here++](ht).
+You can access the video tutorial (in persian) explaining the implementation of deep reinforcement learning, particularly the REINFORCE algorithm in Webots from [here](ht).
 
 I sincerely hope that this tutorial proves helpful to those of you who are in the process of learning. If you find this repository helpful in your learning journey, consider giving it a star.
 
