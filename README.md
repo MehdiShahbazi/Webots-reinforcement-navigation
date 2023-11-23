@@ -55,10 +55,10 @@ You can view the training procedure through the following GIFs, demonstrating th
   <img src="./gifs/EP1000.gif" width="31%" height=31% />
 </div>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="./gifs/EP1500.gif" width="31%" height="31%" />
   <img src="./gifs/EP2000.gif" width="31%" height="31%" />
-</div>
+</p>
 
 
 
